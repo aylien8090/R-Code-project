@@ -1,6 +1,4 @@
-
-
-# Project Autumn 2024
+# Rcode Project Autumn 2024
 
 ## Declaration
 ***
@@ -17,12 +15,8 @@ and Mathematics defines as minor and substantial breaches of misconduct as outli
 guide for this unit.
 ***
 
-## COMP1013 Analytics Programming
-
-**Due Friday 31 May 2024 (Week 13)**
 
 ### Project Description
-
 In this assignment there are 4 parts. For each part you should:
 
 - Explain your rationales behind choices made answering the tasks.
@@ -31,7 +25,6 @@ In this assignment there are 4 parts. For each part you should:
 - Test the code to ensure its correctness.
 - Format and structure the code to maximize its readability.
 
-A report must be submitted containing a cover page, the solutions to each of the four parts, and your code, as a **PDF**, to the vUWS submission site. The cover page must contain your name, student number, subject code and name, and the declaration below.
+A report must be submitted containing a cover page, the solutions to each of the four parts, and your code, as a **PDF**. The cover page must contain your name, course code and name, and the declaration below.
 
-Submissions in other formats or without cover pages will have marks deducted.
-Submission is due by Friday of week 13. Late submissions will receive a 10% reduction in marks for each day late.
+Submissions in other formats or without cover pages will not be accepted.
