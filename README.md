@@ -1,4 +1,3 @@
-# R-Code-project
 
 
 # Project Autumn 2024
@@ -18,6 +17,9 @@ and Mathematics defines as minor and substantial breaches of misconduct as outli
 guide for this unit.
 ***
 
+## COMP1013 Analytics Programming
+
+**Due Friday 31 May 2024 (Week 13)**
 
 ### Project Description
 
